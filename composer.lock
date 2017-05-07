@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b95f4eecfdad1ababc9e3284e9586679",
+    "packages": [
+        {
+            "name": "harry_buttowski/videoservice",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/HarryButtowski/VideoService.git",
+                "reference": "947f51c3948062dc5edfb7732f2ffc776a682c1e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/HarryButtowski/VideoService/zipball/947f51c3948062dc5edfb7732f2ffc776a682c1e",
+                "reference": "947f51c3948062dc5edfb7732f2ffc776a682c1e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "HarryButtowski\\VideoService\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tishin Vladimir",
+                    "email": "harry.buttowski@gmail.com"
+                }
+            ],
+            "description": "Service for get data of video from public services",
+            "time": "2017-05-07 12:20:49"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "harry_buttowski/videoservice": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

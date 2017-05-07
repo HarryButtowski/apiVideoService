@@ -1,0 +1,5 @@
+{
+    "require": {
+        "harry_buttowski/videoservice": "@dev"
+    }
+}
