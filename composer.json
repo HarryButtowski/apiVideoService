@@ -1,5 +1,8 @@
 {
     "require": {
         "harry_buttowski/videoservice": "@dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
     }
 }
